@@ -4,7 +4,8 @@
 
 2. Install Terraform in your system 
 
-3. clone or fork the source code from my repository
+3. clone or fork the source code from my repository by using below link
+     https://github.com/sreepadma25/-WilliamHill-DevOps-Challenge-Task4.git
 
 4 Open project folder and run the below commands
 
